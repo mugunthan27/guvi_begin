@@ -1,6 +1,6 @@
-ch = raw_input("Enter a character: ")
-if(ch=='A' or ch=='a' or ch=='E' or ch =='e' or ch=='I'
- or ch=='i' or ch=='O' or ch=='o' or ch=='U' or ch=='u'):
+cha = raw_input("Enter a character: ")
+if(cha=='A' or cha=='a' or cha=='E' or cha=='e' or cha=='I'
+ or cha=='i' or cha=='O' or cha=='o' or cha=='U' or cha=='u'):
     print("Vowel")
 else:
     print("Consonant")
