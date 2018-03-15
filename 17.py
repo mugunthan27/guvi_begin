@@ -8,6 +8,6 @@ while tmp > 0:
    tmp //= 10  
   
 if n == sum:  
-   print("YES!")  
+   print("YES")  
 else:  
-   print("NO!")  
+   print("error")  
